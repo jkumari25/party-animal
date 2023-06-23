@@ -1,0 +1,15 @@
+.subscribe-button {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #f32121;
+    color: #fff;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+
+  .subscribe-button:hover {
+    background-color: #0D47A1;
+  }
